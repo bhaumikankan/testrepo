@@ -1,0 +1,25 @@
+.paragraph{
+    text-align: center;
+}
+.paragraph-1{
+    text-align: right;
+}
+input{
+    border-radius: 20px;
+    padding: 10px;
+    border-color: aqua;
+    border-radius: 20px;
+    margin-bottom: 10px;
+}
+button{
+    color:white;
+    background-color:rgb(26, 124, 189);
+    padding: 10px;
+    border-radius: 20px;
+    border-color: aqua;
+
+}
+form{
+    background-color:rgb(162, 162, 238);
+    padding: 10px;
+}
